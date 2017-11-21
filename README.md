@@ -11,7 +11,7 @@ All annotations are standartized to `<object-class> <x> <y> <width> <height>`, w
 * for example: `<x> = <absolute_x> / <image_width> or <height> = <absolute_height> / <image_height>`  
 * atention: `<x> <y>` - are center of rectangle (are not top-left corner)  
 
-##Classes:  
+## Classes:  
 
 ```
 0 - car  
@@ -28,7 +28,7 @@ All annotations are standartized to `<object-class> <x> <y> <width> <height>`, w
 11 - large  
 ```  
 
-##List of excluded images
+## List of excluded images  
 You can find it in `/unmarked`
 
 ```
