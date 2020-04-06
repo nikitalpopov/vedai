@@ -7,9 +7,9 @@ All images converted to `.jpg`
 All annotations are standartized to `<object-class> <x> <y> <width> <height>`, where:  
 
 * `<object-class>` - integer number of object from 0 to (classes-1)  
-* `<x> <y> <width> <height>` - float values relative to width and height of image, it can be equal from 0.0 to 1.0  
+* `<x> <y> <width> <height>` - float values relative to width and height of image, it can be set from 0.0 to 1.0  
 * for example: `<x> = <absolute_x> / <image_width> or <height> = <absolute_height> / <image_height>`  
-* atention: `<x> <y>` - are center of rectangle (are not top-left corner)  
+* **attention:** `<x> <y>` - are center of rectangle (are not top-left corner)  
 
 ## Classes:  
 
