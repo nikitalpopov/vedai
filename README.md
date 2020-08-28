@@ -1,6 +1,8 @@
 
 # VEDAI
 
+### ❗️ USE WITH CAUTION ❗️ Repo has been reported for containing outdated/wrong information
+
 [VEDAI](https://downloads.greyc.fr/vedai/) dataset prepared for [darknet](https://github.com/AlexeyAB/darknet) implementation
 
 All images converted to `.jpg`  
